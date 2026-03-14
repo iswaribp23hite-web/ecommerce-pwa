@@ -1,0 +1,42 @@
+{
+"name": "SmartShop E-commerce",
+"short_name": "SmartShop",
+"description": "Online shopping platform for electronics, clothes and accessories",
+"start_url": "index.html",
+"display": "standalone",
+"background_color": "#ffffff",
+"theme_color": "#ff6600",
+"orientation": "portrait",
+
+"icons": [
+{
+"src": "icons/icon-72.png",
+"sizes": "72x72",
+"type": "image/png"
+},
+{
+"src": "icons/icon-192.png",
+"sizes": "192x192",
+"type": "image/png"
+},
+{
+"src": "icons/icon-512.png",
+"sizes": "512x512",
+"type": "image/png"
+}
+],
+
+"screenshots": [
+{
+"src": "screenshots/home.png",
+"sizes": "1280x720",
+"type": "image/png",
+"form_factor": "wide"
+},
+{
+"src": "screenshots/mobile.png",
+"sizes": "540x720",
+"type": "image/png"
+}
+]
+}
